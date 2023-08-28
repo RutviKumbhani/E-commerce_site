@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>images/pro/images (11).jpg</ImageUrl>
+    <Height>250</Height>
+    <Width>350</Width>
+    <NavigationUrl>www.google.com</NavigationUrl>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/pro/2.jpg</ImageUrl>
+    <Height>250</Height>
+    <Width>350</Width>
+    <NavigationUrl>www.google.com</NavigationUrl>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/pro/3.jpg</ImageUrl>
+    <Height>250</Height>
+    <Width>350</Width>
+    <NavigationUrl>www.google.com</NavigationUrl>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/pro/giftease_301463.jpg</ImageUrl>
+    <Height>250</Height>
+    <Width>350</Width>
+    <NavigationUrl>www.google.com</NavigationUrl>
+    <Impressions>1</Impressions>
+  </Ad>
+
+<Ad>
+    <ImageUrl>images/pro/orchis.jpg</ImageUrl>
+    <Height>250</Height>
+    <Width>350</Width>
+    <NavigationUrl>www.google.com</NavigationUrl>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>
